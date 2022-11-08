@@ -61,3 +61,7 @@ $ helm inspect values prometheus-community/prometheus-postgres-exporter
 # Helm 3
 $ helm show values prometheus-community/prometheus-postgres-exporter
 ```
+### License
+
+The pg-exporter-chart is Open Source software released under
+the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
